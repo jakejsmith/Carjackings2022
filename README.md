@@ -14,7 +14,7 @@ To run or play with the code, you'll need R/R Studio with the following packages
 # Methodology
 
 ## Data Sources
-Data used in this analysis are incident-level crime data from city police departments, obtained from the following sources:
+At the time of analysis, only a small number of cities published crime data that included "carjacking" as a discrete subcategory of robbery. The analysis uses data from the following cities, all of which published incident-level crime data that met these criteria:
 - Chicago, IL carjacking incident data
 - New York, NY crime incident data[^1]
 - Los Angeles, CA crime incident data
