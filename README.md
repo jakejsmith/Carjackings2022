@@ -1,10 +1,10 @@
 # Carjackings2022
-Analyzing America's carjacking spree and the extent to which young people were behind it.
+Analyzing America's recent carjacking spree and the extent to which young people were behind it.
 
 # Description
 In 2022, amid a sharp rise in carjacking in many parts of the country, some [high-profile commentators](https://chicago.suntimes.com/crime/2022/2/7/22922606/carjacking-wave-violence-lori-lightfoot-remote-learning-teens-ctu-teachers-union) sought to place the blame on youth. Kids, they alleged, had grown restless and violent stuck at home during the remote learning era. 
 
-In a [blog post](https://medium.com/@jakejeromesmith/fact-vs-fiction-americas-carjacking-spree-250733f3bbc2) published that year, I used open-source crime data from multiple cities to look more closely at this claim, and at the rise in carjackings more generally. First I assessed just how serious the national carjacking spike was; I also used the time of day during which carjackings occurred to assess the viability of the youth-carjacking-spree hypothesis. This is the code that I wrote to perform those analyses.
+In a [blog post](https://medium.com/@jakejeromesmith/fact-vs-fiction-americas-carjacking-spree-250733f3bbc2) published that year, I used open-source crime data from multiple cities to look more closely at this claim, and at the rise in carjackings more generally. I first assessed just how serious the national carjacking spike was, and then I used the time of day during which carjackings occurred to assess the viability of the youth-carjacking-spree hypothesis. This repository contains the code that I wrote to perform those analyses.
 
 # Getting Started
 To run or play with the code, you'll need R/R Studio with the following packages installed:
